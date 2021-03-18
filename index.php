@@ -1,5 +1,5 @@
 <?php
 
-print "WELCOME TO OCP LW  Rebuilt";
+print "WELcome to OC built by bc";
 
 ?>
